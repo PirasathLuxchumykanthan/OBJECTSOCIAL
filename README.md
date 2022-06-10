@@ -1,3 +1,8 @@
+# Access full version Readme.md 
+To access the internal Readme.md, application is required.
+Read 1.4. or 1.5.
+https://github.com/PirasathLuxchumykanthan/Internal-OBJECTSOCIAL
+
 # OBJECT:SOCIAL - SaaS
 
 # 1. OBJECT:SOCIAL(OS)
