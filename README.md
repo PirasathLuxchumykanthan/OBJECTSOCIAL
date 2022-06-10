@@ -134,3 +134,14 @@ We collect 20% of the paid invoice and share fairly with them.
 OBJECT:SOCIAL is committed to donated 4% of what the customer pays in invoice.\
 OBJECT:SOCIAL does not know when they donate this amount.\
 Total amount and clearance for this will be stated on this document 1.5.3.1.
+
+............
+............
+............
+
+
+# 12. Wee wait to.
+
+# 13. Release
+All release need a version Number.
+In this case it will be Year.Month.Day of month.[Release number]
